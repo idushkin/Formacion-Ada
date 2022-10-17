@@ -1,0 +1,3 @@
+Una documentacion de Ada:
+
+http://www.gedlc.ulpgc.es/docencia/NGA/Ada2005/ada/libraries/text_io-es_integer.html

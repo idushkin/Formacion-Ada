@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\idushkin\Documents\Formacion Ada\02Iterativas\iteraciones.gpr
+20221014071012 0126d721851309baf40a307534121e3f
+[BOUND OBJECT FILES]
+C:\Users\idushkin\Documents\Formacion Ada\02Iterativas\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\idushkin\Documents\Formacion Ada\02Iterativas\obj\
+-LC:\Users\idushkin\Documents\Formacion Ada\02Iterativas\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
