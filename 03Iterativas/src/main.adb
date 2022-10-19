@@ -7,7 +7,11 @@ with Ada.Numerics.Float_Random; use Ada.Numerics.Float_Random;
 procedure Main is
    --Sumatoria : Integer := 0;
    --Entrada_Datos : integer;
+   N : Integer;
 begin
+   Get(N);
+exception
+      when Data_Error => Put_Line("Mal Ingreso de Datos");
    --Calcule la sumatoria de valores hasta que el usuario ingrese un 0
    --  Put_Line("Ingrese valores. Un 0 finaliza la carga");
    --  Put_Line("Se calculara la sumatoria");
@@ -135,17 +139,17 @@ begin
    --  end;
 
    --Generador de numeros enteros al azar entre 1 y 10
-   declare
-      G: Generator;
-      Numero_Al_Azar : Integer;
-   begin
-      Reset(G);
-      for I in 1..20 loop
-         --Numero_Al_Azar := Integer( Random(G) * 10.0) +1;
-         Numero_Al_Azar := Integer(  ( Random(G) * 9.0) + 1.0);
-         Put_Line(Numero_Al_Azar'Image);
-      end loop;
-   end;
+   --  declare
+   --     G: Generator;
+   --     Numero_Al_Azar : Integer;
+   --  begin
+   --     Reset(G);
+   --     for I in 1..20 loop
+   --        --Numero_Al_Azar := Integer( Random(G) * 10.0) +1;
+   --        Numero_Al_Azar := Integer(  ( Random(G) * 9.0) + 1.0);
+   --        Put_Line(Numero_Al_Azar'Image);
+   --     end loop;
+   --  end;
 
 
 end Main;

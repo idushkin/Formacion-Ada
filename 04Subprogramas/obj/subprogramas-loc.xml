@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 87" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 6" line=" 1" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\lib\gcc\x86_64-w64-mingw32\10.3.1\adainclude\ada.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 16" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2021\lib\gcc\x86_64-w64-mingw32\10.3.1\adainclude\ada.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 14" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 41" line=" 10" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 13" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 16" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 13" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 17" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 99" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 82" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 99" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 99" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 82" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 45" line=" 22" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 82" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 37" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 35" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 82" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 99" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 82" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 66" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 59" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 60" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 32" line=" 59" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 125" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 32" line=" 59" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 125" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 32" line=" 59" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 60" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 125" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 142" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 142" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 80" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 105" line=" 70" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 151" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 77" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 151" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 148" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 9" line=" 146" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\subprogramas.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\04Subprogramas\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
