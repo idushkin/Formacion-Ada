@@ -1,0 +1,28 @@
+V "GNAT Lib v2021"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_FLOATING_POINT
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U geometria%b		geometria.adb		f1f42bf8 NE OO PK
+
+U geometria%s		geometria.ads		8f7015ed EE NE OO PK
+
+D geometria.ads		20221020095938 8f7015ed geometria%s
+D geometria.adb		20221020095914 7e843e15 geometria%b
+D system.ads		20210520051136 2ffa5114 system%s
+G a e
+G c Z s b [Omultiply geometria 7 13 none]
+X 1 geometria.ads
+1K9*Geometria 9l5 9e14 2|1b14 8l5 8t14
+3F9*Distancia<float> 5r22 7r33 2|3r26 3r47
+4F9*Area<float> 7r51 2|3r65 5r14
+5F12*Metros{3F9}
+7V14*"*"{4F9} 7>17 7>23 2|3b14 6t7
+7f17 Left{3F9} 2|3b17 5r25
+7f23 Right{3F9} 2|3b37 5r39
+
