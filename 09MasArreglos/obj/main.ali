@@ -14,14 +14,13 @@ RV NO_DEFAULT_INITIALIZATION
 RV NO_DYNAMIC_SIZED_OBJECTS
 RV NO_IMPLEMENTATION_PRAGMAS
 
-U main%b		main.adb		d314e17f NE OO SU
+U main%b		main.adb		f897b498 NE OO SU
 W ada%s			ada.ads			ada.ali
 W ada.float_text_io%s	a-flteio.ads		a-flteio.ali
 W ada.numerics%s	a-numeri.ads		a-numeri.ali
 W ada.numerics.float_random%s  a-nuflra.adb	a-nuflra.ali
 Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
 W ada.text_io%s		a-textio.adb		a-textio.ali
-Z system.img_flt%s	s-imgflt.ads		s-imgflt.ali
 Z system.secondary_stack%s  s-secsta.adb	s-secsta.ali
 
 D ada.ads		20210520051132 76789da1 ada%s
@@ -40,17 +39,12 @@ D a-tiflio.ads		20210520051130 fcca4daa ada.text_io.float_io%s
 D a-unccon.ads		20210520051130 0e9b276f ada.unchecked_conversion%s
 D interfac.ads		20210520051132 edec285f interfaces%s
 D i-cstrea.ads		20210520051132 e53d8b8e interfaces.c_streams%s
-D main.adb		20221025072936 dc3cd8c8 main%b
+D main.adb		20221025085212 f7bf8d2f main%b
 D system.ads		20210520051136 2ffa5114 system%s
 D s-crtl.ads		20210520051132 0ebbdb71 system.crtl%s
 D s-exctab.ads		20210520051132 54135002 system.exception_table%s
 D s-ficobl.ads		20210520051132 078245e4 system.file_control_block%s
-D s-imager.ads		20210520051134 500b11a9 system.image_r%s
-D s-imageu.ads		20210520051134 525c30c6 system.image_u%s
-D s-imgflt.ads		20210520051134 78689de8 system.img_flt%s
-D s-imguns.ads		20210520051134 0e4da2ac system.img_uns%s
 D s-parame.ads		20210520051134 4752c4cb system.parameters%s
-D s-powflt.ads		20210520051134 46f7a1b9 system.powten_flt%s
 D s-putima.ads		20210520051134 4e095881 system.put_images%s
 D s-rannum.ads		20210520051134 c3978523 system.random_numbers%s
 D s-secsta.ads		20210520051134 9b3ab94b system.secondary_stack%s
@@ -73,33 +67,41 @@ X 5 a-numeri.ads
 16K13*Numerics 35e17 17|2r10 2r41
 X 6 a-nuflra.ads
 41K22*Float_Random 74e30 17|2w19 2r50
-47R9*Generator<29|65R9> 17|36r12
+47R9*Generator<24|65R9> 17|36r12
 49F12*Uniformly_Distributed{float}
-51V13*Random{49F12}<29|73p13> 17|40s34
+51V13*Random{49F12}<24|73p13> 17|40s34
 X 12 a-textio.ads
 58K13*Text_IO 725e16 17|1w10 1r27
 87I12*Field{integer}
-506U14*Put_Line 17|68s13 75s10 77s7 80s7 81s7 84s7 85s7
+506U14*Put_Line 17|69s13 104s7 107s7 108s7 110s7 115s10
 X 13 a-tiflio.ads
-82U14*Put 17|74s10[3|20] 78s7[3|20] 82s7[3|20]
-86i7 Exp{12|87I12} 17|74r27[3|20] 78r31[3|20] 82r30[3|20]
+82U14*Put 17|68s13[3|20] 105s7[3|20] 109s7[3|20]
+86i7 Exp{12|87I12} 17|68r27[3|20] 105r31[3|20] 109r30[3|20]
 X 17 main.adb
-5U11*Main 5b11 88l5 88t9
-31A12 Array_Float(float)<integer> 35r54 37r18 47r35 59r34 65r32 71r17
-35V16 Cargar_Arreglo{31A12} 35b16 35>31 43t10 71s30
+5U11*Main 5b11 119l5 119t9
+31A12 Array_Float(float)<integer> 35r54 37r18 47r35 59r34 65r32 76r34 76r69
+. 78r16 90r22 97r17 113r24
+35V16 Cargar_Arreglo{31A12} 35b16 35>31 43t10 97s30
 35i31 N{integer} 37r33
 36r10 G{6|47R9} 40r41
 37a10 Retorno{31A12} 39r19 40m13 42r17
 39i14 I{integer} 40r21
-47V16 Sumatoria{float} 47b16 47>26 55t10 61s17 78s11
+47V16 Sumatoria{float} 47b16 47>26 55t10 61s17 105s11
 47a26 Entrada{31A12} 51r19 52r34
 49f10 Retorno{float} 52m13 52r24 54r17
 51i14 I{integer} 52r42
-59V16 Promedio{float} 59b16 59>25 62t10 82s11
+59V16 Promedio{float} 59b16 59>25 62t10 109s11
 59a25 Entrada{31A12} 61r27 61r42
-65U17 Mostrar 65b17 65>26 70l11 70t18 86s7
-65a26 Arr{31A12} 67r19 68r23
-67i14 I{integer} 68r28
-71a7 Numeros{31A12} 73r24 74r14 78r21 82r20 86r15
-73i11 I{integer} 74r23
+65U17 Mostrar 65b17 65>26 71l11 71t18 103s7 116s10
+65a26 Arr{31A12} 67r19 68r18
+67i14 I{integer} 68r23
+76V16 Mayores{31A12} 76b16 76>24 76>47 95l11 95t18 113s39
+76a24 Arreglo{31A12} 78r31 79r30 82r19 83r16 84r31 90r34 92r27
+76f47 Valor{float} 83r27
+78a10 Aux{31A12} 84m16 92r23
+79i10 Indice{integer} 84r20 85m16 85r26 90r49 92r42
+82i14 I{integer} 83r24 84r39
+90a13 Result{31A12} 92m13 93r20
+97a7 Numeros{31A12} 103r15 105r21 109r20 113r47
+113a10 Mayores_A_5{31A12} 116r18
 

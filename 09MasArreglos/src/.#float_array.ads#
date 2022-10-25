@@ -1,0 +1,10 @@
+package Float_Array is
+
+      type Array_Float is Array(Positive range <>) of Float;
+      function Cargar_Arreglo(N : in Integer) return Array_Float; 
+      function Sumatoria(Entrada: Array_Float) return Float;
+      function Promedio(Entrada: Array_Float) return Float;
+      function Mayores(Arreglo : Array_Float; Valor : Float) return Array_Float;
+      
+  
+end Float_Array;
