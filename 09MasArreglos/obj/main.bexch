@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\idushkin\Documents\Formacion Ada\09MasArreglos\arreglosbonus.gpr
+20221025061530 3136e43c444d290ccb06da1d55295250
+[BOUND OBJECT FILES]
+C:\Users\idushkin\Documents\Formacion Ada\09MasArreglos\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\idushkin\Documents\Formacion Ada\09MasArreglos\obj\
+-LC:\Users\idushkin\Documents\Formacion Ada\09MasArreglos\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

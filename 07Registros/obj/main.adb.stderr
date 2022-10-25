@@ -1,0 +1,1 @@
+main.adb:9:04: warning: variable "Edad_Persona" is never read and never assigned [-gnatwv]

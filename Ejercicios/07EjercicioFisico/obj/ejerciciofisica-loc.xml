@@ -1,18 +1,58 @@
 <?xml version="1.0"?>
 <Locations >
   <Project>
-    <vfs_file />
+    <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\Ejercicios\07EjercicioFisico\ejerciciofisica.gpr</vfs_file>
     <file_marker column=" 1" line=" 1" >
       <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\Ejercicios\07EjercicioFisico\ejerciciofisica.gpr</vfs_project>
       <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\Ejercicios\07EjercicioFisico\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 26" line=" 13" >
+    <file_marker column=" 26" line=" 15" >
       <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\Ejercicios\07EjercicioFisico\ejerciciofisica.gpr</vfs_project>
       <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\Ejercicios\07EjercicioFisico\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker current="true" column=" 4" line=" 3" >
+    <file_marker column=" 4" line=" 14" >
       <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\Ejercicios\07EjercicioFisico\ejerciciofisica.gpr</vfs_project>
       <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\Ejercicios\07EjercicioFisico\src\fisica.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 8" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\Ejercicios\07EjercicioFisico\ejerciciofisica.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\Ejercicios\07EjercicioFisico\src\fisica.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 1" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\Ejercicios\07EjercicioFisico\ejerciciofisica.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\Ejercicios\07EjercicioFisico\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 9" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\Ejercicios\07EjercicioFisico\ejerciciofisica.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\Ejercicios\07EjercicioFisico\src\fisica.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 1" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\Ejercicios\07EjercicioFisico\ejerciciofisica.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\Ejercicios\07EjercicioFisico\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 9" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\Ejercicios\07EjercicioFisico\ejerciciofisica.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\Ejercicios\07EjercicioFisico\src\fisica.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\Ejercicios\07EjercicioFisico\ejerciciofisica.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\Ejercicios\07EjercicioFisico\src\fisica.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 96" line=" 9" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\Ejercicios\07EjercicioFisico\ejerciciofisica.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\Ejercicios\07EjercicioFisico\src\fisica.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 12" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\Ejercicios\07EjercicioFisico\ejerciciofisica.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\Ejercicios\07EjercicioFisico\src\fisica.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 1" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\Ejercicios\07EjercicioFisico\ejerciciofisica.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\Ejercicios\07EjercicioFisico\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 12" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\Ejercicios\07EjercicioFisico\ejerciciofisica.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\Ejercicios\07EjercicioFisico\src\fisica.ads</vfs_file>
     </file_marker>
   </Project>
 </Locations>
