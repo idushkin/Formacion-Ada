@@ -46,6 +46,8 @@ begin
              Array_Personas(I).Edad_Persona := Edad(Integer'Value(Get_Line));
       end loop;
 
+      Put_Line("Todos los datos leidos");
+
       for I in Array_Personas'Range loop
              Put_Line("Indice: " &I'Image &" nombre:");
              Put_Line(To_String(Array_Personas(I).Nombre));
