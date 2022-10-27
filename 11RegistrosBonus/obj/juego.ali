@@ -1,0 +1,137 @@
+V "GNAT Lib v2021"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P SS ZX
+
+RN
+RV NO_ENUMERATION_MAPS
+RV NO_EXCEPTION_HANDLERS
+RV NO_EXCEPTION_PROPAGATION
+RV NO_EXCEPTIONS
+RV NO_IMPLICIT_CONDITIONALS
+RV NO_SECONDARY_STACK
+RV NO_STANDARD_STORAGE_POOLS
+RV NO_DYNAMIC_SIZED_OBJECTS
+RV NO_IMPLEMENTATION_ATTRIBUTES
+RV NO_IMPLEMENTATION_PRAGMAS
+RV NO_IMPLICIT_LOOPS
+
+U juego%b		juego.adb		ed781c3f NE OO PK
+Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
+Z system.concat_2%s	s-conca2.adb		s-conca2.ali
+Z system.concat_8%s	s-conca8.adb		s-conca8.ali
+Z system.img_int%s	s-imgint.ads		s-imgint.ali
+Z system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+
+U juego%s		juego.ads		2c84057a EE NE OO PK
+W ada%s			ada.ads			ada.ali
+W ada.characters%s	a-charac.ads		a-charac.ali
+W ada.characters.handling%s  a-chahan.adb	a-chahan.ali
+Z ada.exceptions%s	a-except.adb		a-except.ali
+W ada.strings%s		a-string.ads		a-string.ali
+Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
+W ada.strings.unbounded%s  a-strunb.adb		a-strunb.ali
+Z system%s		system.ads		system.ali
+Z system.finalization_masters%s  s-finmas.adb	s-finmas.ali
+Z system.soft_links%s	s-soflin.adb		s-soflin.ali
+Z system.standard_library%s  s-stalib.adb	s-stalib.ali
+Z system.storage_elements%s  s-stoele.adb	s-stoele.ali
+
+D ada.ads		20210520051132 76789da1 ada%s
+D a-charac.ads		20210520051128 2d3ec45b ada.characters%s
+D a-chahan.ads		20210520051128 0ce1b450 ada.characters.handling%s
+D a-chlat1.ads		20210520051128 66457d31 ada.characters.latin_1%s
+D a-except.ads		20210520051128 946f3014 ada.exceptions%s
+D a-finali.ads		20210520051128 bf4f806b ada.finalization%s
+D a-stream.ads		20210520051130 119b8fb3 ada.streams%s
+D a-string.ads		20210520051130 90ac6797 ada.strings%s
+D a-strmap.ads		20210520051130 5a88892a ada.strings.maps%s
+D a-sttebu.ads		20210520051130 18209c64 ada.strings.text_buffers%s
+D a-strunb.ads		20210520051130 03325227 ada.strings.unbounded%s
+D a-stuten.ads		20210520051130 808c40ad ada.strings.utf_encoding%s
+D a-tags.ads		20210520051130 9eaa38c6 ada.tags%s
+D a-unccon.ads		20210520051130 0e9b276f ada.unchecked_conversion%s
+D interfac.ads		20210520051132 edec285f interfaces%s
+D juego.ads		20221027085450 2357e30d juego%s
+D juego.adb		20221027085930 ce2fff32 juego%b
+D system.ads		20210520051136 2ffa5114 system%s
+D s-atocou.ads		20210520051132 b45c2d8d system.atomic_counters%s
+D s-conca2.ads		20210520051132 02a0d7d0 system.concat_2%s
+D s-conca8.ads		20210520051132 e3074dd7 system.concat_8%s
+D s-exctab.ads		20210520051132 54135002 system.exception_table%s
+D s-finmas.ads		20210520051132 1ab4dba8 system.finalization_masters%s
+D s-finroo.ads		20210520051132 4ff27390 system.finalization_root%s
+D s-imagei.ads		20210520051134 0d3f86a7 system.image_i%s
+D s-imgint.ads		20210520051134 bdb6f5ec system.img_int%s
+D s-memory.ads		20210520051134 597d6634 system.memory%s
+D s-parame.ads		20210520051134 4752c4cb system.parameters%s
+D s-putima.ads		20210520051134 4e095881 system.put_images%s
+D s-secsta.ads		20210520051134 9b3ab94b system.secondary_stack%s
+D s-soflin.ads		20210520051134 a7318a92 system.soft_links%s
+D s-stache.ads		20210520051134 a37c21ec system.stack_checking%s
+D s-stalib.ads		20210520051134 472fbca8 system.standard_library%s
+D s-stalib.adb		20210520051134 977290bf system.standard_library%b
+D s-stoele.ads		20210520051134 2dc34a04 system.storage_elements%s
+D s-stoele.adb		20210520051134 ed88f8fb system.storage_elements%b
+D s-stopoo.ads		20210520051134 e9fa2dd8 system.storage_pools%s
+D s-stratt.ads		20210520051134 7bdda3fa system.stream_attributes%s
+D s-traent.ads		20210520051134 26a8d361 system.traceback_entries%s
+D s-unstyp.ads		20210520051134 2b077493 system.unsigned_types%s
+D unchconv.ads		20210520051136 ca2f9e18 unchecked_conversion%s
+G a e
+G c Z s b [to_string juego 24 13 none]
+G c Z s b [to_string juego 25 13 none]
+G c Z s s [jugadorDI juego 15 9 none]
+G c Z s s [jugadorDA juego 15 9 none]
+G c Z s s [jugadorDF juego 15 9 none]
+G c Z s s [jugadorIP juego 15 9 none]
+G c Z s s [jugadoresIP juego 22 9 none]
+G c Z s s [jugadoresDI juego 22 9 none]
+G c Z s s [jugadoresDA juego 22 9 none]
+G c Z s s [jugadoresDF juego 22 9 none]
+X 1 ada.ads
+16K9*Ada 20e8 16|1r6 1r33 2r6 2r35
+X 2 a-charac.ads
+16K13*Characters 18e19 16|2r10 2r39
+X 3 a-chahan.ads
+36K24*Handling 160e28 16|2w21 2r50
+71V13*To_Lower{string} 17|12s11
+72V13*To_Upper{string} 17|11s14
+X 8 a-string.ads
+16K13*Strings 35e16 16|1r10 1r37
+X 11 a-strunb.ads
+83K21*Unbounded 765e26 16|1w18 1r45
+88R9*Unbounded_String<6|43R9> 744e15 16|16r16
+117V13*To_String{string} 17|5s49
+X 16 juego.ads
+4K9*Juego 27l5 27e10 17|1b14 14l5 14t10
+6i4*Default_Max_Hp{integer} 13r26
+7i4*Default_Max_Level{integer} 11r29
+9E9*Profesiones 9e64 17r19 25r33 17|9r33
+9n24*Guerrero{9E9} 9r86
+9n34*Maga{9E9}
+9n40*Aesino{9E9}
+9n48*Ninja{9E9}
+9n55*Sanador{9E9}
+11I9*Niveles<short_short_integer> 18r15
+13I9*Vida<short_integer> 19r12
+15R9*Jugador 20e14 22r51 24r33 17|3r32
+16r7*Nombre{11|88R9} 17|5r65
+17e7*Profesion{9E9} 17|5r30
+18i7*Nivel{11I9} 17|6r27
+19i7*Hp{13I9} 17|5r91
+22A9*Jugadores(15R9)<integer>
+24V13*To_String{string} 24>23 17|3b13 7t7
+24r23 Value{15R9} 17|3b23 5r24 5r59 5r85 6r21
+25V13*To_String{string} 25>23 17|5s14 9b13 13t7
+25e23 Value{9E9} 17|9b23 11r23 12r20 12r35
+X 18 system.ads
+67M9*Address
+X 27 s-memory.ads
+53V13*Alloc{18|67M9} 103i<c,__gnat_malloc>22
+68U14*Free 104i<c,__gnat_free>22
+76V13*Realloc{18|67M9} 105i<c,__gnat_realloc>22
+X 34 s-stalib.adb
+89U14 Break_Start 90i<c,__gnat_break_start>22
+
