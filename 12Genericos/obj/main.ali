@@ -1,0 +1,111 @@
+V "GNAT Lib v2021"
+M P W=b
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_ENUMERATION_MAPS
+RV NO_FIXED_POINT
+RV NO_IO
+RV NO_LONG_LONG_INTEGERS
+RV NO_DYNAMIC_SIZED_OBJECTS
+RV NO_IMPLEMENTATION_PRAGMAS
+RV NO_IMPLICIT_LOOPS
+
+U main%b		main.adb		4051ebbb NE OO SU
+W ada%s			ada.ads			ada.ali
+Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W generic_demo%s	generic_demo.adb	generic_demo.ali
+Z system.concat_5%s	s-conca5.adb		s-conca5.ali
+Z system.img_int%s	s-imgint.ads		s-imgint.ali
+Z system.img_lli%s	s-imglli.ads		s-imglli.ali
+
+D ada.ads		20210520051132 76789da1 ada%s
+D a-except.ads		20210520051128 946f3014 ada.exceptions%s
+D a-ioexce.ads		20210520051128 e4a01f64 ada.io_exceptions%s
+D a-stream.ads		20210520051130 119b8fb3 ada.streams%s
+D a-string.ads		20210520051130 90ac6797 ada.strings%s
+D a-sttebu.ads		20210520051130 18209c64 ada.strings.text_buffers%s
+D a-stuten.ads		20210520051130 808c40ad ada.strings.utf_encoding%s
+D a-tags.ads		20210520051130 9eaa38c6 ada.tags%s
+D a-textio.ads		20210520051130 aef4d56d ada.text_io%s
+D a-unccon.ads		20210520051130 0e9b276f ada.unchecked_conversion%s
+D generic_demo.ads	20221028080758 33453156 generic_demo%s
+D generic_demo.adb	20221028080842 d6b61521 generic_demo%b
+D interfac.ads		20210520051132 edec285f interfaces%s
+D i-cstrea.ads		20210520051132 e53d8b8e interfaces.c_streams%s
+D main.adb		20221028081600 dde00f80 main%b
+D system.ads		20210520051136 2ffa5114 system%s
+D s-conca5.ads		20210520051132 875e432e system.concat_5%s
+D s-crtl.ads		20210520051132 0ebbdb71 system.crtl%s
+D s-exctab.ads		20210520051132 54135002 system.exception_table%s
+D s-ficobl.ads		20210520051132 078245e4 system.file_control_block%s
+D s-imagei.ads		20210520051134 0d3f86a7 system.image_i%s
+D s-imgint.ads		20210520051134 bdb6f5ec system.img_int%s
+D s-imglli.ads		20210520051134 3723d9ff system.img_lli%s
+D s-parame.ads		20210520051134 4752c4cb system.parameters%s
+D s-putima.ads		20210520051134 4e095881 system.put_images%s
+D s-secsta.ads		20210520051134 9b3ab94b system.secondary_stack%s
+D s-soflin.ads		20210520051134 a7318a92 system.soft_links%s
+D s-stache.ads		20210520051134 a37c21ec system.stack_checking%s
+D s-stalib.ads		20210520051134 472fbca8 system.standard_library%s
+D s-stoele.ads		20210520051134 2dc34a04 system.storage_elements%s
+D s-stoele.adb		20210520051134 ed88f8fb system.storage_elements%b
+D s-traent.ads		20210520051134 26a8d361 system.traceback_entries%s
+D s-unstyp.ads		20210520051134 2b077493 system.unsigned_types%s
+D s-wchcon.ads		20210520051136 1b7d22d2 system.wch_con%s
+D unchconv.ads		20210520051136 ca2f9e18 unchecked_conversion%s
+G a e
+G c Z b b [main standard 4 11 none]
+G r i none [main standard 4 11 none] [generic_swap generic_demo 4 15 none]
+X 1 ada.ads
+16K9*Ada 20e8 15|1r6 1r23
+X 9 a-textio.ads
+58K13*Text_IO 725e16 15|1w10 1r27
+506U14*Put_Line 15|64s4 67s4 72s4 75s4 79s4 82s4 86s4 88s4
+X 11 generic_demo.ads
+1K9*generic_demo 7e17 15|2w6 2r24
+3+17 T 15|56r39 57r39 58r39 59r40
+4u15*Generic_Swap 15|56r26 57r26 58r26 59r27
+X 15 main.adb
+4U11*Main 4b11 89l5 89t9
+5i4 Default_Max_Jugadores{integer} 9r72
+6i4 Default_Min_Jugadores{integer} 9r49
+8E9 Equipos 8e76 16r22 17r20 37r46 37r72 39r10 57r44
+8n21 Real_Madrid{8E9} 70r21
+8n34 Barsa{8E9} 69r23
+8n41 Betis{8E9}
+8n48 Villareal{8E9}
+8n59 Getage{8E9}
+8n67 Atletico{8E9}
+9I9 Cantidad_Jugadores<integer> 13r9 14r9 28r47 28r84 30r10 56r44
+10I9 Sueldo<long_long_integer> 22r19 23r19 59r45
+11D9 Metros_Sobre_Segundos
+13i4 C1{9I9} 62m4 64r24 64r41 65m9 65r9 67r24
+14i4 C2{9I9} 63m4 65m12 65r12 67r41
+16e4 Equipo_Favorito{8E9} 69m4 72r24 74m9 74r9 75r24
+17e4 Equipo_Odiado{8E9} 70m4 72r54 74m25 74r25 75r54
+19i4 NumeroA{natural} 77m4 79r18 81m9 81r9 82r18
+20i4 NumeroB{natural} 78m4 79r40 81m17 81r17 82r40
+22i4 Sueldo_Messi{10I9} 84m4 86r18 87m9 87r9 88r18
+23i4 Sueldo_Tesla{10I9} 85m4 86r45 87m22 87r22 88r45
+28U14 Swap_Jugadores 28b14 28=30 28=67 35t7
+28i30 Entrada1{9I9} 32r14 33m7
+28i67 Entrada2{9I9} 33r19 34m7
+30i6 Aux{9I9} 32m7 34r19
+37U15 Swap_Equipos 37b15 37=29 37=55 44t7
+37e29 Entrada1{8E9} 41r14 42m7
+37e55 Entrada2{8E9} 42r19 43m7
+39e6 Aux{8E9} 41m7 43r19
+46U15 Swap_Numeros 46b15 46=29 46=55 53t7
+46i29 Entrada1{integer} 50r14 51m7
+46i55 Entrada2{integer} 51r19 52m7
+48i6 Aux{integer} 50m7 52r19
+56U14 Swap[11|4] 12|3b15 15|65s4
+57U14 Swap[11|4] 12|3b15 15|74s4
+58U14 Swap[11|4] 12|3b15 15|81s4
+59U15 Swap[11|4] 12|3b15 15|87s4
+
