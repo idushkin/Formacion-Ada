@@ -1,0 +1,3 @@
+main.adb:89:04: error: missing "begin" for "declare" at line 85
+main.adb:90:01: error: "end;" expected for "begin" at line 85
+main.adb:90:01: error: "end;" expected for "begin" at line 56

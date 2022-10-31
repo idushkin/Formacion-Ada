@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\idushkin\Documents\Formacion Ada\13Punteros\punteros.gpr
+20221031081406 ef066c348c701d2e3d1e04e1e0f3171e
+[BOUND OBJECT FILES]
+C:\Users\idushkin\Documents\Formacion Ada\13Punteros\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\idushkin\Documents\Formacion Ada\13Punteros\obj\
+-LC:\Users\idushkin\Documents\Formacion Ada\13Punteros\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
