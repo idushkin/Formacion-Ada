@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\idushkin\Documents\Formacion Ada\Ejercicios\14EjercicioPoo\ejercicio.gpr
+20221102093114 4ca59498b8d7c026a59e557158400bae
+[BOUND OBJECT FILES]
+C:\Users\idushkin\Documents\Formacion Ada\Ejercicios\14EjercicioPoo\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\idushkin\Documents\Formacion Ada\Ejercicios\14EjercicioPoo\obj\
+-LC:\Users\idushkin\Documents\Formacion Ada\Ejercicios\14EjercicioPoo\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

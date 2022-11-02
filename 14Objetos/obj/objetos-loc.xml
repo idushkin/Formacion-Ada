@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\14Objetos\objetos.gpr</vfs_file>
+    <file_marker column=" 50" line=" 16" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\14Objetos\objetos.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\14Objetos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 37" line=" 22" >
+      <vfs_project>C:\Users\idushkin\Documents\Formacion Ada\14Objetos\objetos.gpr</vfs_project>
+      <vfs_file>C:\Users\idushkin\Documents\Formacion Ada\14Objetos\src\personaje.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

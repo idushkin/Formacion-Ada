@@ -1,0 +1,20 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\idushkin\Documents\Formacion Ada\14Objetos\objetos.gpr
+20221102072302 a28e50942a868d644402f65da5274402
+[BOUND OBJECT FILES]
+C:\Users\idushkin\Documents\Formacion Ada\14Objetos\obj\personaje.o
+C:\Users\idushkin\Documents\Formacion Ada\14Objetos\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\idushkin\Documents\Formacion Ada\14Objetos\obj\
+-LC:\Users\idushkin\Documents\Formacion Ada\14Objetos\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
