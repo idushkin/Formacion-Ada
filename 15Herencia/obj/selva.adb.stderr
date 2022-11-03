@@ -1,0 +1,6 @@
+selva.adb:1:14: error: missing body for "Hablar" declared at selva.ads:25
+selva.adb:11:58: error: ";" should be "is"
+selva.adb:25:60: error: ";" should be "is"
+selva.adb:32:04: error: duplicate body for "Hablar" declared at selva.ads:21
+selva.adb:37:24: error: not type conformant with declaration at selva.ads:14
+selva.adb:37:24: error: type of "This" does not match
