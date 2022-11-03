@@ -22,7 +22,7 @@ end Create_Leon;
 
     
 
-   function Create_Jirafa(Un_Nombre : String) return Animal;
+   function Create_Jirafa(Un_Nombre : String) return Animal is
       Result : Animal := new Clase_Jirafa;
     begin
       Result.Nombre := To_Unbounded_String(Un_Nombre);
@@ -33,6 +33,19 @@ end Create_Leon;
     begin
        Put_Line("Soy una jirafa y no emito sonido");
     end Hablar;
+
+   function Create_Aguila(Un_Nombre : String) return Animal is
+   Result : Animal := new Clase_Jirafa;
+   begin
+   Result.Nombre := To_Unbounded_String(Un_Nombre);
+   return Result;
+   end Create_Aguila;
+
+    procedure Hablar(This: in Clase_Aguila) is
+    begin
+       Put_Line("Soy un Aguila");
+    end Hablar;
+
 
    function Get_Nombre(This: in Animal) return String is
    begin

@@ -24,6 +24,11 @@ package Selva is
    function Create_Jirafa(Un_Nombre : String) return Animal;
    overriding procedure Hablar(This: in Clase_Jirafa);
    
+   type Clase_Aguila is new Clase_Animal with private;
+   function Create_Aguila(Un_Nombre : String) return Animal;
+   overriding procedure Hablar(This : in Clase_Aguila);
+   --pasenme el ads de una subclase mas de animal
+   
 private 
 
    type Clase_Animal is abstract tagged
